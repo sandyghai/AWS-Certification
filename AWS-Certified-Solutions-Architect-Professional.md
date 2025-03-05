@@ -1,8 +1,8 @@
 
 # AWS Certified Solutions Architect - Professional
 
-## Disclaimer
-Any documentation links added to repo is intended for learning purposes only. You are encouraged to review, verify the information to use and align with current documentation and exam. I have attempted and passed this exam three times 2017, 2020 and 2023. Below is the list of AWS services and blogs I read in my last attempt to exam. AWS keep adding new services to exam to make it interesting. Depth and Breadth of AWS services gets my curiosity.
+## Overview
+I have attempted and passed this exam three times 2017, 2020 and 2023. Below is the list of AWS services and blogs I read in my last attempt to exam. AWS keep adding new services to exam to make it interesting. Depth and Breadth of AWS services gets my curiosity.
 
 ## Lambda
 
